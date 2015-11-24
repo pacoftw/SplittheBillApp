@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Split the Bill App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_split_the_bill">SplitTheBill</string>
+    <string name="txtBill">Bill Amount</string>
+    <string name="txtNumberOfPeople">Number of People</string>
+    <string name="prompt">Select Quality</string>
+    <string name="txtTip">Tip Amount</string>
+    <string name="btnCost">Calculate Individual Bill</string>
+    <string-array name="txtQuality">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
